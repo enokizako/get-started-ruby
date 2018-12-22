@@ -28,8 +28,8 @@ module Api
         end
       end
       if @db
-       create_view(@db)
-     end
+        create_view(@db)
+      end
     end
 
     # Helper function to construct the proper URL

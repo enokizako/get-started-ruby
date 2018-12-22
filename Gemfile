@@ -37,3 +37,6 @@ gem 'couchrest'
 
 # To use debugger
 # gem 'debugger'
+
+# To use Linebot
+gem 'line-bot-api'
